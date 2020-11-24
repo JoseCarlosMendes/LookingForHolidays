@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "LFHolidays"
+  "defaultProject": "LFHolidays",
+  "cli": {
+    "analytics": "89419f58-d85b-4d6c-8873-0b0e431d450b"
+  }
 }
